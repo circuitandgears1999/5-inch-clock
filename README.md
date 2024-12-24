@@ -14,15 +14,6 @@ The body is constructed from PVC pipe, and the seven-segment LED displays are cu
 - Durable and lightweight PVC pipe body.
 - Easy-to-follow assembly and Arduino programming.
 
-
-## 📂 Repository Contents
-
-This repository includes everything you need to replicate the project:
-
-- `Arduino_Code/` - The code files for the Arduino board.
-- `Sevensegment_Design/` - The custom files for the LED segments.
-- `Bill_of_Materials.txt` - A list of all the components used in the project.
-
 ## 🛠️ Tools & Components
 
 To build this project, you'll need:
